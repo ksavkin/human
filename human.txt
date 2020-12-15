@@ -13,3 +13,8 @@
   ==== ====
  ===== =====
 
+1) task
+2) task
+3) Merge remote-tracking branch 'origin/hat' 
+4) Merge branch 'boots_buttons' 
+5) diff
